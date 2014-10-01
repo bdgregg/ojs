@@ -5,7 +5,7 @@
  * Copyright (c) 2003-2014 John Willinsky
  * Distributed under the GNU GPL v2. For full terms see the file docs/COPYING.
  *
- * Common site header.
+ * This is a Modification by Me!
  *}
 {capture assign="deprecatedThemeStyles"}
 	<link rel="stylesheet" type="text/css" media="all" href="{$baseUrl}/lib/pkp/styles/lib/selectBox/jquery.selectBox.css" />
